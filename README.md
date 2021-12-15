@@ -5,7 +5,7 @@ Kelompok 7<br>
 3. ZULHANIF/1950401065<br>
 Tahun Pembuatan : 2021<br>
 Dosen Pengampuh : Amuharnis, M. Kom<br>
-Dibuat untuk Ujian Akhir Semester mata kuliah Pemrograman Web II di jurusan Manajemen Informatika D3 IAIN Batusangkar<br>
+Dibuat untuk Tugas mata kuliah Pemrograman Web II di jurusan Manajemen Informatika D3 IAIN Batusangkar<br>
 Nama Aplikasi : "Pustaka-Booking | Katalog Buku (Codeigniter) v.1.0"<br>
 URL home : http://localhost/pustaka-booking-k7/home<br>
 URL dashboard : http://localhost/pustaka-booking-k7/<br>
